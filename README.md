@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏫 가천대학교 오픈소스SW 수업 과제
+
+### 👤 작성자 정보
+- **학과:** 심리학과
+- **학번:** 202232339
+- **이름:** 이연수
